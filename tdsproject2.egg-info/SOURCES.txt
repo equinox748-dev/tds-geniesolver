@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+tdsproject2.egg-info/PKG-INFO
+tdsproject2.egg-info/SOURCES.txt
+tdsproject2.egg-info/dependency_links.txt
+tdsproject2.egg-info/requires.txt
+tdsproject2.egg-info/top_level.txt
